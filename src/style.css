@@ -19,3 +19,8 @@
     background-color: #2564eb0a;
     transform: scale(0.9);
 }
+
+.hero-sec {
+    background-image: url("./assets/pc-repair.webp");
+    background-repeat: no-repeat;
+}
