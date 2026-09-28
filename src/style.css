@@ -7,4 +7,15 @@
     white-space: nowrap;
     padding: 8px;
     border-radius: 5px;
+    transition: 0.15s ease-in-out;
+}
+
+.nav-button:hover {
+    background-color: #2564eb9c;
+    transform: scale(1.1);
+}
+
+.nav-button:active {
+    background-color: #2564eb0a;
+    transform: scale(0.9);
 }
